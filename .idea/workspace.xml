@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2350d5ca-14d6-4bdf-9b7b-0023619d661a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1o3lIrJuLb4tYU09GhYCgvvVefG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/rpc_demo/codec" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="rpc_demo.codec" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="rpc_demo.remote" />
+      <recent name="rpc_demo.remote.socket.handler" />
+      <recent name="rpc_demo.remote.netty.handler" />
+      <recent name="rpc_demo.remote.socket" />
+      <recent name="rpc_demo.remote.netty" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Rpc_demo-master\src\main\java\rpc_demo\codec" />
+      <recent name="F:\Rpc_demo-master\src\main\java\rpc_demo" />
+      <recent name="F:\Rpc_demo-master\src\main\java\rpc_demo\registry" />
+      <recent name="F:\Rpc_demo-master\src\main\java\rpc_demo\util" />
+      <recent name="F:\Rpc_demo-master\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NettyTestClient">
+    <configuration name="NettyTestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rpc_demo.test.NettyTestClient" />
+      <module name="Rpc_demo-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpc_demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NettyTestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rpc_demo.test.NettyTestServer" />
+      <module name="Rpc_demo-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpc_demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SPIMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SPIMain" />
+      <module name="Rpc_demo-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rpc_demo.test.TestClient" />
+      <module name="Rpc_demo-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpc_demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rpc_demo.test.TestServer" />
+      <module name="Rpc_demo-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rpc_demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NettyTestClient" />
+        <item itemvalue="Application.NettyTestServer" />
+        <item itemvalue="Application.SPIMain" />
+        <item itemvalue="Application.TestClient" />
+        <item itemvalue="Application.TestServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2350d5ca-14d6-4bdf-9b7b-0023619d661a" name="Default Changelist" comment="" />
+      <created>1612523077707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612523077707</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1032" y="201" key="#Project_Structure" timestamp="1615388557306">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1032" y="201" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1615388557306" />
+    <state x="1245" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1615534101787">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1245" y="259" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1615534101787" />
+    <state x="1224" y="410" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1620026950351">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1224" y="410" width="431" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1080@0.0.1920.1080" timestamp="1620026950351" />
+    <state x="1170" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615548710443">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1170" y="289" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1615548710443" />
+    <state x="1199" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612525809003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1199" y="409" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080@0.0.1920.1080" timestamp="1612525809003" />
+    <state width="1877" height="367" key="GridCell.Tab.0.bottom" timestamp="1615549088988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1615549088988" />
+    <state width="1877" height="367" key="GridCell.Tab.0.center" timestamp="1615549088988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1615549088988" />
+    <state width="1877" height="367" key="GridCell.Tab.0.left" timestamp="1615549088988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1615549088988" />
+    <state width="1877" height="367" key="GridCell.Tab.0.right" timestamp="1615549088988">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="367" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1615549088988" />
+    <state x="827" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1619159079972">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="827" y="335" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1619159079972" />
+    <state x="334" y="247" key="new project wizard" timestamp="1614842171173">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="334" y="247" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1614842171173" />
+    <state x="1257" y="163" key="refactoring.ChangeSignatureDialog" timestamp="1612706050739">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1257" y="163" key="refactoring.ChangeSignatureDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1612706050739" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1615550308785">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1615550308785" />
+  </component>
+</project>
